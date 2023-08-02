@@ -1,4 +1,3 @@
-<style>:root{user-select:none;}</style>
 # Nux.js
 ### Nux.js是什么
 是一种新型的JS库，偏向整活和功能向  
